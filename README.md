@@ -1,4 +1,4 @@
-# AtCoder-heuristic-Contest048
+# AtCoder-heuristic-Contest050
 ## Contest time 7/6 19:00～7/6 23:00
 
 # 解法
